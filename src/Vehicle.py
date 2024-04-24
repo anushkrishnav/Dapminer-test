@@ -41,3 +41,5 @@ class Vehicle:
             print(f"{self.make} {self.model} is operational. Current speed: {self.speed} km/h.")
         else:
             print(f"{self.make} {self.model} is not operational.")
+    def test(self):
+        pass
